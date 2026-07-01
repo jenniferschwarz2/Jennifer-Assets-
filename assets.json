@@ -1,0 +1,41 @@
+{
+  "source": "https://jenniferrschwarz.lovable.app/",
+  "photos": [
+    { "file": "photos/stage-wide.jpg", "alt": "Jennifer Schwarz on stage before a full house" },
+    { "file": "photos/jen-speaking.jpg", "alt": "Jennifer speaking" },
+    { "file": "photos/ecomotion-team.jpg", "alt": "EcoMotion Assembly team" },
+    { "file": "photos/hero-stage.jpg", "alt": "On the demo floor" },
+    { "file": "photos/ces.jpg", "alt": "Meet the Mobility Startups, CES Las Vegas" },
+    { "file": "photos/masa.jpg", "alt": "Masa Wilf Leadership Summit" },
+    { "file": "photos/iaa.jpg", "alt": "IAA Mobility panel" },
+    { "file": "photos/jen-ecomotion.jpg", "alt": "Jennifer speaking at EcoMotion" },
+    { "file": "photos/community.jpg", "alt": "With the community" }
+  ],
+  "logos": [
+    { "file": "logos/ecomotion.png", "alt": "EcoMotion" },
+    { "file": "logos/masa-israel-journey.jpg", "alt": "Masa Israel Journey" },
+    { "file": "logos/tau-ventures.png", "alt": "TAU Ventures" },
+    { "file": "logos/bloomberg-philanthropies.jpg", "alt": "Bloomberg Philanthropies" },
+    { "file": "logos/israel-tech-week.jpg", "alt": "Israel Tech Week" },
+    { "file": "logos/london-school-of-economics.png", "alt": "London School of Economics" },
+    { "file": "logos/astrazeneca.png", "alt": "AstraZeneca" },
+    { "file": "logos/reut-group.png", "alt": "Reut Group" },
+    { "file": "logos/the-jewish-agency-for-israel.png", "alt": "The Jewish Agency for Israel" },
+    { "file": "logos/paho.png", "alt": "PAHO" },
+    { "file": "logos/usaid.png", "alt": "USAID" },
+    { "file": "logos/tel-aviv-yafo-municipality.png", "alt": "Tel Aviv\u2013Yafo Municipality" },
+    { "file": "logos/psi.png", "alt": "PSI" },
+    { "file": "logos/ludic.png", "alt": "Ludic" },
+    { "file": "logos/mckinsey.svg", "alt": "McKinsey & Company" },
+    { "file": "logos/deloitte.jpeg", "alt": "Deloitte Catalyst" },
+    { "file": "logos/continental.png", "alt": "Continental" },
+    { "file": "logos/enterprise_singapore.png", "alt": "Enterprise Singapore" },
+    { "file": "logos/ita.webp", "alt": "Italian Trade Agency" },
+    { "file": "logos/ford.png", "alt": "Ford" },
+    { "file": "logos/gm.png", "alt": "General Motors" },
+    { "file": "logos/honda.png", "alt": "Honda Xcelerator Ventures" },
+    { "file": "logos/bmw.png", "alt": "BMW Group" },
+    { "file": "logos/hyundai_cradle.jpg", "alt": "Hyundai CRADLE" },
+    { "file": "logos/jefferies.png", "alt": "Jefferies" }
+  ]
+}
